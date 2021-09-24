@@ -372,6 +372,7 @@ html, body {
         width: 100%;
         height: 0;
         overflow: hidden;
+        margin-top: -30px;
     }
     .nav div.show_list {
         height: auto;
@@ -387,6 +388,7 @@ html, body {
         background-color: #222831;
         /*same background color of navbar*/
         background-position: center top;
+        
     }
     .nav div.main_list ul li {
         width: 100%;
