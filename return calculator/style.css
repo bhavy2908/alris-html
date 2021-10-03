@@ -542,6 +542,8 @@ input[type="range"]::-webkit-slider-thumb:active {
     box-sizing: border-box;
 }
 
+
+
 .hbtn {
     position: relative;
     box-sizing: border-box;
